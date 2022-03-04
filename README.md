@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-![MaaarcosG GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![MaaarcosG GitHub stats](https://github-readme-stats.vercel.app/api?username=MaaarcosG&theme=dark&show_icons=true)
 
-![Uses Languages](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaaarcosG&hide=javascript,html)](https://github.com/MaaarcosG/MaaarcosG)
+
 <!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaaarcosG&repo=MaaarcosG)](https://github.com/MaaarcosG/MaaarcosG)
+
 **MaaarcosG/MaaarcosG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
